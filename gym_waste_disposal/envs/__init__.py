@@ -1,0 +1,1 @@
+from gym_waste_disposal.envs.waste_disposal_env import WasteDisposalEnv
