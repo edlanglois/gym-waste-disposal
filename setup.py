@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='waste_disposal',
-    version='0.01',
+    version='0.1',
     description='Waste disposal OpenAI Gym environment.',
     author='Eric Langlois',
     author_email='edl@cs.toronto.edu',
